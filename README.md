@@ -6,9 +6,10 @@ In my free time I am either sitting at my desk making little programs, or I am h
 <br>
 
 <h2>My Specialities</h2>
-<div align="center" width="200px">
-  <p align="left">- HTML, CSS and JS</p>
+<div align="center">
+  <p>- HTML, CSS and JS</p>
   <p>- PHP</p>
   <p>- C#</p>
   <p>- MongoDB, MySQL, MsSQL, PostgreSQL</p>
+  <p align="right">[Index](#index)</p>
 </div>
