@@ -3,7 +3,7 @@
 ###
 
 <p align="center">Hey 👋, I'm Maarten.</p>
-<p>Please buy me a coffee at <https://ko-fi.com/mespeet /></p>
+<p>Please buy me a coffee at https://ko-fi.com/mespeet</p>
 
 ###
 
