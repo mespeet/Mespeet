@@ -7,7 +7,7 @@ In my free time I am either sitting at my desk making little programs, or I am h
 
 <h2>My Specialities</h2>
 <div align="center">
-  <p align="left">- HTML, CSS and JS</p>
+  <p>- HTML, CSS and JS</p>
   <p>- PHP</p>
   <p>- C#</p>
   <p>- MongoDB, MySQL, MsSQL, PostgreSQL</p>
