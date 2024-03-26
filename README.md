@@ -3,6 +3,11 @@
 ###
 
 <p align="center">Hey 👋, I'm Maarten.</p>
+
+```bash
+npm i simple-colourised-logger
+```
+
 <p>Please buy me a coffee at https://ko-fi.com/mespeet</p>
 
 ###
