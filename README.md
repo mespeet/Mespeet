@@ -20,6 +20,6 @@
 
 <h2 align="left">You Can Find Me Here</h2>
 
-https://x.com/mespeet
-https://github.com/mespeet
-https://discord.com/users/407987072847183873
+<p>https://x.com/mespeet</p>
+<p>https://github.com/mespeet</p>
+<p>https://discord.com/users/407987072847183873</p>
