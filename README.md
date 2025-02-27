@@ -11,7 +11,7 @@
 
 <h2 align="left">About Me</h2>
 "Hacking is the art of rapid creation and pushing the boundaries of potential."
-
+<br />
 <p>. Laravel Developer</p>
 <p>. UI & UX Designer</p>
 <p>. JS Wizard</p>
